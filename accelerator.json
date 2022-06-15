@@ -6,11 +6,7 @@
     "type": "module",
     "classification": "Users",
     "tags": ["Users"],
-    "permissions": ["directory:user:add"],
-    "products": [
-        "Baseline set of permissions necessary to operate Genesys Cloud",
-        "Collaborate Free"
-    ],
+    "permissions": ["directory:user:add"],   
     "documentation": [],
     "presentation": [
         {
